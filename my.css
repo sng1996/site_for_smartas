@@ -1,7 +1,7 @@
 .my_nav{
     background: rgba(0,0,0,0);
     border: hidden;
-    margin-top: 10px;
+    height: 70px;
 }
 
 #bs-example-navbar-collapse-1 a{
@@ -12,7 +12,7 @@
 
 #bs-example-navbar-collapse-1 li{
      margin-left: 5vw;
-     margin-top: 3px;
+     margin-top: 13px;
 }
 
 
@@ -24,11 +24,10 @@
     font-family: "Arciform Sans";
     color: white;
     font-size: 25px;
-    margin-top: 10px;
 }
 
 .navbar-header{
-    margin-top: 10px;
+    margin-top: 20px;
 }
 
 .main_block{
@@ -289,6 +288,7 @@
 .easy{
     text-align: center;
     margin-bottom: 50px;
+    transition: margin-top .5s;
 }
 
 .easy > div{
@@ -360,6 +360,31 @@
     margin-top: 20px;
     float: right;
 }
+
+#image1{
+    transition: margin-left .5s;
+}
+
+#image2{
+    transition: margin-left .5s;
+}
+
+#image3{
+    transition: margin-left .5s;
+}
+
+#image4{
+    transition: margin-left .5s;
+}
+
+#image5{
+    transition: margin-left .5s;
+}
+
+#image6{
+    transition: margin-left .5s;
+}
+
 
 
 
