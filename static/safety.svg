@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="200px" height="201px" viewBox="0 0 200 201" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3 (11970) - http://www.bohemiancoding.com/sketch -->
+    <title>Oval 1 Copy 3 + Imported Layers + Rectangle 116</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="50%" id="radialGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#DAEDFA" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Desktop-HD-Copy-6" sketch:type="MSArtboardGroup" transform="translate(-449.000000, -2554.000000)">
+            <g id="Наши-преимущества-+-Мы-стараемся-быть-на-+-Group" sketch:type="MSLayerGroup" transform="translate(96.000000, 2377.000000)">
+                <g id="Group" transform="translate(0.000000, 176.950095)" sketch:type="MSShapeGroup">
+                    <g id="Oval-1-Copy-3-+-Безопасно-+-Мы-используем-систем" transform="translate(328.000000, 0.000000)">
+                        <g id="Oval-1-Copy-3-+-Imported-Layers-+-Rectangle-116" transform="translate(25.000000, 0.000000)">
+                            <circle id="Oval-1-Copy-3" fill="url(#radialGradient-1)" cx="100" cy="100.919927" r="100"></circle>
+                            <g id="Imported-Layers" transform="translate(53.000000, 54.919927)">
+                                <path d="M0.125,19.4375 L93.875,19.4375" id="Fill-1" fill-opacity="0" fill="#000000"></path>
+                                <path d="M0.125,19.4375 L93.875,19.4375" id="Stroke-3" stroke="#444444" stroke-width="2" stroke-linecap="square"></path>
+                                <path d="M0.125,35.0625 L93.875,35.0625" id="Fill-4" fill-opacity="0" fill="#000000"></path>
+                                <path d="M0.125,35.0625 L93.875,35.0625" id="Stroke-5" stroke="#444444" stroke-width="2" stroke-linecap="square"></path>
+                                <path d="M40.75,69.4375 L6.375,69.4375 C2.9234375,69.4375 0.125,66.6390625 0.125,63.1875 L0.125,6.9375 C0.125,3.4859375 2.9234375,0.6875 6.375,0.6875 L87.625,0.6875 C91.0765625,0.6875 93.875,3.4859375 93.875,6.9375 L93.875,63.1875" id="Fill-6" fill-opacity="0" fill="#000000"></path>
+                                <path d="M40.75,69.4375 L6.375,69.4375 C2.9234375,69.4375 0.125,66.6390625 0.125,63.1875 L0.125,6.9375 C0.125,3.4859375 2.9234375,0.6875 6.375,0.6875 L87.625,0.6875 C91.0765625,0.6875 93.875,3.4859375 93.875,6.9375 L93.875,63.1875" id="Stroke-7" stroke="#444444" stroke-width="2" stroke-linecap="square"></path>
+                                <path d="M12.625,53.8125 L34.5,53.8125" id="Fill-8" fill-opacity="0" fill="#000000"></path>
+                                <path d="M12.625,53.8125 L34.5,53.8125" id="Stroke-9" stroke="#444444" stroke-width="2" stroke-linecap="square"></path>
+                                <path d="M51.6875,63.1875 L82.9375,63.1875 L82.9375,91.3125 L51.6875,91.3125 L51.6875,63.1875 Z" id="Fill-10" fill="#FBAEA8"></path>
+                                <path d="M51.6875,63.1875 L82.9375,63.1875 L82.9375,91.3125 L51.6875,91.3125 L51.6875,63.1875 Z" id="Stroke-11" stroke="#444444" stroke-width="2" stroke-linecap="square"></path>
+                                <path d="M67.3125,74.125 L67.3125,78.8125" id="Fill-12" fill-opacity="0" fill="#000000"></path>
+                                <path d="M67.3125,74.125 L67.3125,78.8125" id="Stroke-13" stroke="#444444" stroke-width="2" stroke-linecap="square"></path>
+                                <path d="M57.9375,63.1875 L57.9375,55.375 C57.9375,50.0625 62,46 67.3125,46 L67.3125,46 C72.625,46 76.6875,50.0625 76.6875,55.375 L76.6875,63.1875" id="Fill-14" fill-opacity="0" fill="#000000"></path>
+                                <path d="M57.9375,63.1875 L57.9375,55.375 C57.9375,50.0625 62,46 67.3125,46 L67.3125,46 C72.625,46 76.6875,50.0625 76.6875,55.375 L76.6875,63.1875" id="Stroke-15" stroke="#444444" stroke-width="2" stroke-linecap="square"></path>
+                            </g>
+                            <rect id="Rectangle-116" stroke="#979797" fill="#606C88" x="53" y="74.0499046" width="94" height="16"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

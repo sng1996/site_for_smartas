@@ -1,0 +1,366 @@
+.my_nav{
+    background: rgba(0,0,0,0);
+    border: hidden;
+    margin-top: 10px;
+}
+
+#bs-example-navbar-collapse-1 a{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: white;
+    font-size: 16px;
+}
+
+#bs-example-navbar-collapse-1 li{
+     margin-left: 5vw;
+     margin-top: 3px;
+}
+
+
+.my_nav .container{
+    margin-left: 10vw;
+}
+
+.my_nav .header{
+    font-family: "Arciform Sans";
+    color: white;
+    font-size: 25px;
+    margin-top: 10px;
+}
+
+.navbar-header{
+    margin-top: 10px;
+}
+
+.main_block{
+    height: 100vh;
+    width: 100vw;
+    background: linear-gradient(to right, #606C88, #3F4C6B);
+}
+
+.main_block h1{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: white;
+    font-size: 48px;
+    text-align: center;
+    margin-top: 20vh;
+    font-weight: 400;
+}
+
+.main_block h2{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    font-weight: 200;
+    line-height: 33px;
+    margin-top: 30px;
+}
+
+.main_block div{
+    text-align: center;
+}
+
+.main_block .mini_block{
+    margin-top: 40px;
+}
+
+.main_block .mini_block button{
+    border: hidden;
+    background-color: rgba(240,240,240,80);
+    border-radius: 10px;
+    height: 50px;
+    width: 250px;
+    font-size: 20px;
+    font-weight: 200;
+    font-color: #606C88;
+    margin-top: 20px;
+}
+
+.current_orders h1{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #3F4C6B;
+    font-size: 48px;
+    text-align: center;
+    margin-top: 15vh;
+    font-weight: 400;
+}
+
+.current_orders h2{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #606C88;
+    font-size: 16px;
+    text-align: center;
+    font-weight: 400;
+}
+
+.current_orders h3{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #606C88;
+    font-size: 16px;
+    text-align: center;
+    font-weight: 400;
+}
+
+.current_orders img{
+    display: block;
+    margin: 0 auto;
+}
+
+.current_orders{
+    text-align: center;
+}
+
+.slick-dots{
+    opacity: 0;
+}
+
+.slick-dots li{
+    display: inline;
+}
+
+.slick-dots button{
+    visible: hidden;
+    background: gray;
+    border: none;
+    text-indent: -9999px;
+    border-radius: 10px;
+    margin-left: 15px;
+    height: 12px;
+}
+
+.slick-active button{
+    background: green;
+}
+
+.slick-arrow{
+    border: hidden;
+    text-indent: -9999px;
+    width: 17px;
+    height: 30px;
+    outline: none;
+    line-height: 120px;
+}
+
+.slick-next{
+    background: url(static/rightArrow.svg);
+    background-size: cover;
+}
+
+.slick-prev{
+    background: url(static/leftArrow.svg);
+    background-size: cover;
+}
+
+.draggable {
+    margin-top: 30px;
+    width: 84vw;
+    display: inline-block;
+}
+
+.my_order{
+    border-color: #3F4C6B;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 8px;
+    margin-top: 20px;
+    padding-right: 0px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    margin-left: 9vw;
+}
+
+.my_order > div{
+    margin: 15px 0px 0px 0px;
+}
+
+.my_order h1{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #3F4C6B;
+    font-size: 18px;
+    text-align: left;
+    font-weight: 200;
+    margin-top: 0px;
+}
+
+.my_order h2{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #3F4C6B;
+    font-size: 13px;
+    text-align: left;
+    font-weight: 200;
+    margin-top: 10px;
+}
+
+.my_order h3{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #606C88;
+    font-size: 10px;
+    text-align: left;
+    font-weight: 200;
+    margin-top: 20px;
+}
+
+.my_order h4{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #38BC9C;
+    font-size: 18px;
+    text-align: right;
+    font-weight: 200;
+    margin-top: 0px;
+}
+
+.order-button{
+    border: hidden;
+    background-color: #3F4C6B;
+    border-radius: 10px;
+    height: 50px;
+    width: 250px;
+    font-size: 16px;
+    font-weight: 200;
+    color: white;
+    margin-top: 40px;
+    margin-left: 2vw;
+    margin-right: 5vw;
+    display: inline-block;
+}
+
+.advantages{
+    margin-bottom: 50px;
+}
+
+.advantages h1{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #3F4C6B;
+    font-size: 48px;
+    text-align: center;
+    margin-top: 15vh;
+    font-weight: 400;
+}
+
+.advantages h2{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #606C88;
+    font-size: 16px;
+    text-align: center;
+    font-weight: 400;
+}
+
+.advantages h3{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #3F4C6B;
+    font-size: 24px;
+    text-align: center;
+    font-weight: 400;
+}
+
+.advantages h4{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #888888;
+    font-size: 16px;
+    text-align: center;
+    font-weight: 200;
+    line-height: 28px;
+    margin-right: 30px;
+    margin-left: 30px;
+}
+
+.advantages > div{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.more_advantages{
+    background: linear-gradient(to right, #606C88, #3F4C6B);
+    text-align: right;
+    height: 550px;
+    padding-top: 80px;
+}
+
+.more_advantages h1{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: white;
+    font-size: 24px;
+    text-align: left;
+    font-weight: 200;
+    margin-top: 10px;
+    margin-bottom: 89px;
+}
+
+.easy{
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.easy > div{
+    display: table;
+    margin: auto;
+}
+
+.easy h1{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #3F4C6B;
+    font-size: 48px;
+    text-align: center;
+    margin-top: 15vh;
+    font-weight: 400;
+}
+
+.easy h2{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #606C88;
+    font-size: 16px;
+    text-align: center;
+    font-weight: 400;
+    margin-bottom: 70px;
+}
+
+.easy img{
+    display: inline-block;
+    margin: 60px 60px 60px 60px;
+}
+
+.easy h3{
+    display: table-cell;
+    vertical-align: middle;
+    width: 50vw;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #606C88;
+    font-size: 20px;
+    font-weight: 200;
+    line-height: 35px;
+}
+
+.bottom-background{
+    width: 100vw;
+    height: 200px;
+    background: linear-gradient(to right, #606C88, #3F4C6B);
+}
+
+.bottom-background h1{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: white;
+    font-size: 16px;
+    text-align: center;
+    font-weight: 200;
+    float: left;
+    margin-left: 30px;
+    margin-top: 150px;
+}
+
+.bottom-background h2{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: white;
+    font-size: 16px;
+    text-align: right;
+    font-weight: 200;
+}
+
+.bottom-background > div{
+    margin-right: 30px;
+    margin-top: 20px;
+    float: right;
+}
+
+
+
+

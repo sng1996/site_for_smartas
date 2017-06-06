@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="111px" height="116px" viewBox="0 0 111 116" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3 (11970) - http://www.bohemiancoding.com/sketch -->
+    <title>Imported Layers</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Desktop-HD-Copy-6" sketch:type="MSArtboardGroup" transform="translate(-1026.000000, -5013.000000)">
+            <g id="Imported-Layers" sketch:type="MSLayerGroup" transform="translate(1021.812500, 5011.370117)">
+                <path d="M95,117.5 L10,117.5 C7.2375,117.5 5,115.2625 5,112.5 L5,7.5 C5,4.7375 7.2375,2.5 10,2.5 L70,2.5 L100,32.5 L100,112.5 C100,115.2625 97.7625,117.5 95,117.5 L95,117.5 Z" id="Fill-1" fill="#E6E6E6" sketch:type="MSShapeGroup"></path>
+                <path d="M70,2.5 L70,27.5 C70,30.2625 72.2375,32.5 75,32.5 L100,32.5 L70,2.5 L70,2.5 Z" id="Fill-3" fill="#B3B3B3" sketch:type="MSShapeGroup"></path>
+                <path d="M105.177675,57.322325 C114.940775,67.08545 114.940775,82.91455 105.177675,92.677675 C95.41455,102.440777 79.58545,102.440777 69.822325,92.677675 C60.059225,82.91455 60.059225,67.08545 69.822325,57.322325 C79.58545,47.559225 95.41455,47.559225 105.177675,57.322325" id="Fill-4" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+                <path d="M87.5,102.5 C72.3375,102.5 60,90.1625 60,75 C60,59.8375 72.3375,47.5 87.5,47.5 C102.6625,47.5 115,59.8375 115,75 C115,90.1625 102.6625,102.5 87.5,102.5 L87.5,102.5 Z M87.5,52.5 C75.0925,52.5 65,62.5925 65,75 C65,87.4075 75.0925,97.5 87.5,97.5 C99.9075,97.5 110,87.4075 110,75 C110,62.5925 99.9075,52.5 87.5,52.5 L87.5,52.5 Z" id="Fill-5" fill="#43A6DD" sketch:type="MSShapeGroup"></path>
+                <path d="M97.5,77.5 L87.5,77.5 C86.1175,77.5 85,76.3825 85,75 L85,65 C85,63.6175 86.1175,62.5 87.5,62.5 C88.8825,62.5 90,63.6175 90,65 L90,72.5 L97.5,72.5 C98.8825,72.5 100,73.6175 100,75 C100,76.3825 98.8825,77.5 97.5,77.5 L97.5,77.5 Z" id="Fill-6" fill="#444444" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>
