@@ -26,7 +26,7 @@
                 <ul class="nav navbar-nav">
                     <li><a href="">Задания</a></li>
                     <li><a href="">О нас</a></li>
-                    <li><a href="">Личный кабинет</a></li>
+                    <li><a href="new.php">Личный кабинет</a></li>
                     <li><img class="ios" height="25px" style="margin-top: 8px;" src="static/ios.svg"></li>
                     <li><img class="android" height="23px" style="margin-top: 11px;" src="static/android.svg"></li>
                     <li><a style="font-weight: 300" href="">+7 (965) 103-02-98</a></li>

@@ -1,0 +1,318 @@
+/*
+////////////////////////////////////////
+////           Демо #1              ////
+////////////////////////////////////////
+*/
+
+.dropcontainer {
+	position:relative;
+	font-size: 16px;
+	color: #777;
+}
+
+.my_sort > p > a{
+	text-decoration: none;
+}
+
+.my_sort > p > a:hover{
+	text-decoration: none;
+}
+
+.trigger {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #3F4C6B;
+	font-weight: 200;
+	padding: 10px;
+	font-size: 16px;
+	width: 50%;
+	background: #fff url(../static/downArrow.svg) 97% center no-repeat;
+	display: block;
+	border: 1px solid #3F4C6B;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	-webkit-transition: all 0.5s ease;
+	-moz-transition: all 0.5s ease;
+	-o-transition: all 0.5s ease; 
+	transition: all 0.5s ease;
+	width: 20vw;
+}
+
+.my_panel_create .trigger{
+	width: 400px;
+	margin-bottom: 0px;
+	font-size: 14px;
+	border: none;
+	border-radius: 2px;
+	background: #E7E9EE url(../static/downArrow.svg) 97% center no-repeat;
+}
+
+.trigger:hover {
+	color: #3F4C6B;
+	background: #f5f5f5 url(../static/downArrow.svg) 98% center no-repeat;
+}
+
+.my_panel_create .trigger:hover{
+	background: #f5f5f5 url(../static/downArrow.svg) 97% center no-repeat;
+}
+
+.activetrigger {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #3F4C6B;
+	font-weight: 200;
+	padding: 10px;
+	font-size: 16px;
+	width: 50%;
+	background: #f5f5f5 url(../static/downArrow.svg) 98% center no-repeat;
+	display: block;
+	border: 1px solid #3F4C6B;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	width: 20vw;
+}
+
+.my_panel_create .activetrigger{
+	width: 400px;
+	font-size: 14px;
+	border: none;
+	border-radius: 2px 2px 0px 0px;
+	background: #E7E9EE url(../static/downArrow.svg) 97% center no-repeat;
+}
+
+.activetrigger:hover {
+	background: #f5f5f5 url(../static/downArrow.svg) 98% center no-repeat;
+	color: #3F4C6B;
+}
+
+.my_panel_create .activetrigger:hover{
+	background: #f5f5f5 url(../static/downArrow.svg) 97% center no-repeat;
+}
+
+.activetrigger:active {
+	background: #f5f5f5 url(../static/downArrow.svg) 98% center no-repeat;
+	color: #777;
+}
+
+.my_panel_create .activetrigger:active{
+	background: #f5f5f5 url(../static/downArrow.svg) 97% center no-repeat;
+}
+
+
+.dropcontainer ul {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #3F4C6B;
+	font-weight: 200;
+	font-size: 16px;
+	border: 1px solid #3F4C6B;
+	border-top: none;
+	background: #fff;
+	list-style-type: none;
+	padding: 10px;
+	margin: 0;
+	width: 50%;
+	z-index: 100;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	width: 20vw;
+}
+
+.my_panel_create .dropcontainer ul {
+	width: 400px;
+	margin-bottom: 0px;
+	font-size: 14px;
+	border: none;
+	box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+	background: #E7E9EE;
+}
+
+.dropcontainer ul li {
+	padding: 7px;
+	padding-left: 10px;
+	-webkit-transition: all 0.5s ease; 
+	-moz-transition: all 0.5s ease; 
+	-o-transition: all 0.5s ease; 
+	transition: all 0.5s ease;
+	}
+
+.dropcontainer ul li:hover {
+	background: #f5f5f5;
+	outline: none;
+	border-radius: 2px;
+}
+
+.dropcontainer ul li a{
+	color:#3F4C6B
+}
+
+.dropcontainer ul li a:hover{
+	text-decoration: none;
+	color:#3F4C6B
+}
+
+.dropcontainer ul li:first-child {
+	display: none;
+	}
+
+.dropcontainer ul li:last-child {
+	border-bottom: none;
+	}
+
+.dropdownhidden {
+	display: none;
+	}
+
+.dropdownvisible {
+	height: auto;
+	}
+
+.my_time .trigger{
+	width: 70px;
+	text-align: left;
+	font-size: 14px;
+	border: none;
+	border-radius: 2px;
+	background: #E7E9EE url(../static/downArrow.svg) 85% center no-repeat;
+}
+
+.my_time .trigger:hover{
+	background: #f5f5f5 url(../static/downArrow.svg) 85% center no-repeat;
+}
+
+.my_time .activetrigger{
+	width: 70px;
+	text-align: left;
+	font-size: 14px;
+	border: none;
+	border-radius: 2px 2px 0px 0px;
+	background: #E7E9EE url(../static/downArrow.svg) 85% center no-repeat;
+}
+
+.my_time .activetrigger:hover{
+	background: #f5f5f5 url(../static/downArrow.svg) 85% center no-repeat;
+}
+
+.my_time .activetrigger:active{
+	background: #f5f5f5 url(../static/downArrow.svg) 85% center no-repeat;
+}
+
+.my_time .dropcontainer ul{
+	width: 70px;
+	text-align: left;
+	margin-bottom: 0px;
+	font-size: 14px;
+	border: none;
+	box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+	background: #E7E9EE;
+}
+
+
+
+/*
+////////////////////////////////////////
+////           Демо #2              ////
+////////////////////////////////////////
+*/
+
+
+.dropcontainer_demo2 {
+	position:relative;
+	font-size: 16px;
+	color: #777;
+	} 
+
+.trigger_demo2 {
+	color: #777;
+	padding: 10px;
+	font-size: 16px;
+	width: 50%;
+	background: #fff url(../images/select-arrow-open.png) 98% center no-repeat;
+	display: block;
+	border: 1px solid #ccc;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	-webkit-transition: all 0.5s ease;
+	-moz-transition: all 0.5s ease;
+	-o-transition: all 0.5s ease; 
+	transition: all 0.5s ease;
+	}
+
+.trigger_demo2:hover {
+	color: #777;
+	background: #f5f5f5 url(../images/select-arrow-open.png) 98% center no-repeat;
+	}
+
+.activetrigger_demo2 {
+	color: #777;
+	padding: 10px;
+	font-size: 16px;
+	width: 50%;
+	background: #f5f5f5 url(../images/select-arrow-close.png) 98% center no-repeat;
+	display: block;
+	border: 1px solid #ccc;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	}
+
+.activetrigger_demo2:hover {
+	background: #f5f5f5 url(../images/select-arrow-close.png) 98% center no-repeat;
+	color: #777;
+	}
+
+.activetrigger_demo2:active {
+	background: #f5f5f5 url(../images/select-arrow-close.png) 98% center no-repeat;
+	color: #777;
+	}
+
+.dropcontainer_demo2 ul {
+	font-size: 16px;
+	border: 1px solid #ccc;
+	border-top: none;
+	background: #fff;
+	list-style-type: none;
+	padding: 10px;
+	margin: 0;
+	width: 50%;
+	z-index: 100;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	}
+
+.dropcontainer_demo2 ul li {
+	padding: 5px;
+	-webkit-transition: all 0.5s ease; 
+	-moz-transition: all 0.5s ease; 
+	-o-transition: all 0.5s ease; 
+	transition: all 0.5s ease;
+	}
+
+.dropcontainer_demo2 ul li:hover {
+	background: #f5f5f5;
+	outline: none;
+	}
+
+.dropcontainer_demo2 ul li:first-child {
+	display: none;
+	}
+
+.dropcontainer_demo2 ul li:last-child {
+	border-bottom: none;
+	}
+
+.dropdownhidden_demo2 {
+	display: none;
+	}
+
+.dropdownvisible_demo2 {
+	height: auto;
+	}
+
+.dropdownvisible_demo2 {
+	height: 200px;
+	overflow-y: scroll;
+}
+
