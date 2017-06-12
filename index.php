@@ -10,7 +10,7 @@
 </head>
 <body>
 <div class="main_block container" style="padding-left: 0px;">
-    <div id="particles-js" style="position: absolute; height: 20vh; width: 100vw; margin-top: 80vh;"></div>
+    <!--<div id="particles-js" style="position: absolute; height: 20vh; width: 100vw; margin-top: 80vh;"></div>-->
     <nav class="navbar navbar-default navbar-fixed-top my_nav">
         <div class="container">
             <div class="navbar-header">
@@ -45,6 +45,18 @@
         <h2>Закажи контрольную, домашнюю работы, курсовой или дипломный проекты, а также экзамен и многое другое через безопасную сделку</h2>
         <button>Я заказчик</button>
     </div>
+</div>
+<div class="anim-phone" id="animation">
+    <img src="static/screen2.svg">
+    <img src="static/screen3.svg">
+    <img src="static/screen4.svg">
+    <img src="static/screen5.svg">
+    <img src="static/screen1.svg">
+    <img src="static/screen6.svg">
+    <img src="static/screen3.svg">
+    <img src="static/screen8.svg">
+    <img src="static/screen7.svg">
+    <img src="static/whitePhone.png">
 </div>
 <div class="current_orders container">
     <h1>Текущие заказы</h1>
@@ -226,6 +238,9 @@
         <h2>vk.com/smart-as</h2>
     </div>
 </div>
+<script src="velocity/velocity.js"></script>
+<script src="velocity/velocity.ui.js"></script>
+<script src="animation.js"></script>
 <script src="js/jquery-3.2.1.js"></script>
 <script src="js/jquery.min.js"></script>
 <script src="js/jquery-migrate-1.2.1.min.js"></script>

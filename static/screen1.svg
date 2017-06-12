@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="320px" height="568px" viewBox="0 0 320 568" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3 (11970) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path id="path-1" d="M0,0 L19,0 L19,19 L0,19"></path>
+    </defs>
+    <g id="Elements" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="iPhone-5/5S/5C-Copy-5" sketch:type="MSArtboardGroup">
+            <g id="Group" sketch:type="MSLayerGroup">
+                <rect id="Rectangle-455" fill="#F6F6F6" sketch:type="MSShapeGroup" x="0" y="0" width="320" height="568"></rect>
+                <rect id="Rectangle-174" fill="#F6F6F6" sketch:type="MSShapeGroup" x="0" y="0" width="320" height="54"></rect>
+                <text id="Все-категории" sketch:type="MSTextLayer" font-family="Helvetica Neue" font-size="17" font-weight="260" sketch:alignment="middle" fill="#3A3942">
+                    <tspan x="104.07" y="43">Все категории</tspan>
+                </text>
+                <g id="Status-Bar-White-Copy-2" fill="#030303">
+                    <path d="M7.89333333,13 C9.18936155,13 10.24,11.7687831 10.24,10.25 C10.24,8.73121694 9.18936155,7.5 7.89333333,7.5 C6.59730512,7.5 5.54666667,8.73121694 5.54666667,10.25 C5.54666667,11.7687831 6.59730512,13 7.89333333,13 Z M13.8666667,13 C15.1626949,13 16.2133333,11.7687831 16.2133333,10.25 C16.2133333,8.73121694 15.1626949,7.5 13.8666667,7.5 C12.5706385,7.5 11.52,8.73121694 11.52,10.25 C11.52,11.7687831 12.5706385,13 13.8666667,13 Z M19.84,13 C21.1360282,13 22.1866667,11.7687831 22.1866667,10.25 C22.1866667,8.73121694 21.1360282,7.5 19.84,7.5 C18.5439718,7.5 17.4933333,8.73121694 17.4933333,10.25 C17.4933333,11.7687831 18.5439718,13 19.84,13 Z M25.8133333,13 C27.1093615,13 28.16,11.7687831 28.16,10.25 C28.16,8.73121694 27.1093615,7.5 25.8133333,7.5 C24.5173051,7.5 23.4666667,8.73121694 23.4666667,10.25 C23.4666667,11.7687831 24.5173051,13 25.8133333,13 Z M25.8133333,12.5 C26.8737201,12.5 27.7333333,11.4926407 27.7333333,10.25 C27.7333333,9.00735931 26.8737201,8 25.8133333,8 C24.7529466,8 23.8933333,9.00735931 23.8933333,10.25 C23.8933333,11.4926407 24.7529466,12.5 25.8133333,12.5 Z M31.7866667,13 C33.0826949,13 34.1333333,11.7687831 34.1333333,10.25 C34.1333333,8.73121694 33.0826949,7.5 31.7866667,7.5 C30.4906385,7.5 29.44,8.73121694 29.44,10.25 C29.44,11.7687831 30.4906385,13 31.7866667,13 Z M31.7866667,12.5 C32.8470534,12.5 33.7066667,11.4926407 33.7066667,10.25 C33.7066667,9.00735931 32.8470534,8 31.7866667,8 C30.7262799,8 29.8666667,9.00735931 29.8666667,10.25 C29.8666667,11.4926407 30.7262799,12.5 31.7866667,12.5 Z" id="Mobile-Signal" sketch:type="MSShapeGroup"></path>
+                    <text id="Carrier" sketch:type="MSTextLayer" font-family="Helvetica Neue" font-size="10.24" font-weight="normal" letter-spacing="0.200000003">
+                        <tspan x="37.5466667" y="13.5">Sketch</tspan>
+                    </text>
+                    <path d="M82.0432391,12.4385043 C81.6011724,11.8454456 80.9406819,11.4689119 80.2027205,11.4689119 C79.4786195,11.4689119 78.8291067,11.8314341 78.387341,12.4053177 L80.2325667,14.5 L82.0432391,12.4385043 Z M83.9027169,10.3214425 C82.9822117,9.19174563 81.6652277,8.48445596 80.2027205,8.48445596 C78.752659,8.48445596 77.4456545,9.17975893 76.5263102,10.2926936 L77.4564682,11.3486 C78.1373482,10.5053708 79.1156463,9.97668394 80.2027205,9.97668394 C81.3029407,9.97668394 82.291738,10.518235 82.9735437,11.3793293 L83.9027169,10.3214425 L83.9027169,10.3214425 Z M85.76,8.20687933 C84.3630573,6.53943672 82.3898197,5.5 80.2027205,5.5 C78.0266755,5.5 76.0623357,6.52895605 74.6666667,8.18164431 L75.5964228,9.23709441 C76.7539881,7.85431655 78.389668,6.99222798 80.2027205,6.99222798 C82.0275222,6.99222798 83.672645,7.86552609 84.8314622,9.26404272 L85.76,8.20687933 Z" id="Wi-Fi" sketch:type="MSShapeGroup"></path>
+                    <text id="9:41-AM" sketch:type="MSTextLayer" font-family="Helvetica Neue" font-size="10.24" font-weight="normal" sketch:alignment="middle" letter-spacing="0.100000001">
+                        <tspan x="140.059173" y="13.5">9:41 AM</tspan>
+                    </text>
+                    <text id="100%" sketch:type="MSTextLayer" font-family="Helvetica Neue" font-size="10.24" font-weight="normal" sketch:alignment="right">
+                        <tspan x="264.51968" y="13.5">100%</tspan>
+                    </text>
+                    <path d="M295.906592,5.5 C295.074524,5.5 294.4,6.16802155 294.4,7.00530324 L294.4,13.4946968 C294.4,14.3260528 295.07208,15 295.906592,15 L312.093408,15 C312.925476,15 313.6,14.3319784 313.6,13.4946968 L313.6,7.00530324 C313.6,6.17394722 312.92792,5.5 312.093408,5.5 L295.906592,5.5 Z M314.026667,8.5 L314.026667,12 L314.666667,12 C315.020129,12 315.306667,11.7135803 315.306667,11.3580461 L315.306667,9.14195395 C315.306667,8.78741257 315.022593,8.5 314.666667,8.5 L314.026667,8.5 Z M295.826092,6 C295.274125,6 294.826667,6.45699692 294.826667,7.00844055 L294.826667,13.4915594 C294.826667,14.0485058 295.280182,14.5 295.826092,14.5 L312.173908,14.5 C312.725875,14.5 313.173333,14.0430031 313.173333,13.4915594 L313.173333,7.00844055 C313.173333,6.45149422 312.719818,6 312.173908,6 L295.826092,6 Z M295.758009,6.5 C295.479284,6.5 295.253333,6.71637201 295.253333,6.99209595 L295.253333,13.5079041 C295.253333,13.7796811 295.474514,14 295.758009,14 L312.241991,14 C312.520716,14 312.746667,13.783628 312.746667,13.5079041 L312.746667,6.99209595 C312.746667,6.72031886 312.525486,6.5 312.241991,6.5 L295.758009,6.5 Z" id="Battery" sketch:type="MSShapeGroup"></path>
+                </g>
+                <g transform="translate(0.000000, 93.000000)">
+                    <rect id="Rectangle-175" stroke="#F6F6F6" fill="#FFFFFF" sketch:type="MSShapeGroup" x="0" y="66" width="320" height="66"></rect>
+                    <text id="Теоретическая-механи" fill="#3A3942" sketch:type="MSTextLayer" font-family="Helvetica Neue" font-size="17" font-weight="260" sketch:alignment="middle">
+                        <tspan x="10.1695" y="88.1200027">Теоретическая механика</tspan>
+                    </text>
+                    <text id="Курсовой-проект" sketch:type="MSTextLayer" font-family="Helvetica Neue" font-size="11" font-weight="260" fill="#3A3942">
+                        <tspan x="10" y="104.120003">Курсовой проект</tspan>
+                    </text>
+                    <text id="12-февраля,-21:30" sketch:type="MSTextLayer" font-family="Helvetica Neue" font-size="9" font-weight="260" fill="#9B9B9B">
+                        <tspan x="234" y="125">12 февраля, 21:30</tspan>
+                    </text>
+                    <rect id="Rectangle-175" stroke="#F6F6F6" fill="#FFFFFF" sketch:type="MSShapeGroup" x="0" y="132" width="320" height="66"></rect>
+                    <text id="Химия" sketch:type="MSTextLayer" font-family="Helvetica Neue" font-size="17" font-weight="260" sketch:alignment="middle" fill="#3A3942">
+                        <tspan x="10.394" y="154.120003">Химия</tspan>
+                    </text>
+                    <text id="Контрольная-работа" sketch:type="MSTextLayer" font-family="Helvetica Neue" font-size="11" font-weight="260" fill="#3A3942">
+                        <tspan x="10" y="170.120003">Контрольная работа</tspan>
+                    </text>
+                    <text id="18-марта,-11:00" sketch:type="MSTextLayer" font-family="Helvetica Neue" font-size="9" font-weight="260" fill="#9B9B9B">
+                        <tspan x="246" y="191">18 марта, 11:00</tspan>
+                    </text>
+                    <rect id="Rectangle-175" stroke="#F6F6F6" fill="#FFFFFF" sketch:type="MSShapeGroup" x="0" y="198" width="320" height="66"></rect>
+                    <text id="Философия" sketch:type="MSTextLayer" font-family="Helvetica Neue" font-size="17" font-weight="260" sketch:alignment="middle" fill="#3A3942">
+                        <tspan x="10.185" y="220.120003">Философия</tspan>
+                    </text>
+                    <text id="Дипломная-работа" sketch:type="MSTextLayer" font-family="Helvetica Neue" font-size="11" font-weight="260" fill="#3A3942">
+                        <tspan x="10" y="236.120003">Дипломная работа</tspan>
+                    </text>
+                    <text id="10-июня,-10:00" sketch:type="MSTextLayer" font-family="Helvetica Neue" font-size="9" font-weight="260" fill="#9B9B9B">
+                        <tspan x="249" y="257">10 июня, 10:00</tspan>
+                    </text>
+                    <g id="1500-+-rub---fontawesome-copy" transform="translate(251.000000, 66.000000)" font-size="18.699187" font-family="Helvetica Neue" fill="#38BC9C" sketch:type="MSTextLayer" font-weight="260">
+                        <text id="2500-₽">
+                            <tspan x="0" y="18">2500</tspan>
+                            <tspan x="41.5869919" y="18" font-size="26.1788618"> </tspan>
+                            <tspan x="48.8647154" y="18" font-family=".Helvetica Neue DeskInterface">₽</tspan>
+                        </text>
+                    </g>
+                    <g id="1500-+-rub---fontawesome-copy-2" transform="translate(261.000000, 132.000000)" font-size="18.699187" font-family="Helvetica Neue" fill="#38BC9C" sketch:type="MSTextLayer" font-weight="260">
+                        <text id="800-₽">
+                            <tspan x="0" y="18">800</tspan>
+                            <tspan x="31.1902439" y="18" font-size="26.1788618"> </tspan>
+                            <tspan x="38.4679675" y="18" font-family=".Helvetica Neue DeskInterface">₽</tspan>
+                        </text>
+                    </g>
+                    <g id="1500-+-rub---fontawesome-copy-3" transform="translate(241.000000, 198.000000)" font-size="18.699187" font-family="Helvetica Neue" fill="#38BC9C" sketch:type="MSTextLayer" font-weight="260">
+                        <text id="15000-₽">
+                            <tspan x="0" y="18">15000</tspan>
+                            <tspan x="51.9837398" y="18" font-size="26.1788618"> </tspan>
+                            <tspan x="59.2614634" y="18" font-family=".Helvetica Neue DeskInterface">₽</tspan>
+                        </text>
+                    </g>
+                    <text id="10.02" sketch:type="MSTextLayer" font-family="Helvetica Neue" font-size="9" font-weight="260" fill="#A9A9AB">
+                        <tspan x="10" y="58.2100067">10.02</tspan>
+                    </text>
+                    <g>
+                        <rect id="Rectangle-175" stroke="#F6F6F6" fill="#FFFFFF" sketch:type="MSShapeGroup" x="0" y="0" width="320" height="66"></rect>
+                        <text id="Аналитическая-геомет" sketch:type="MSTextLayer" font-family="Helvetica Neue" font-size="17" font-weight="260" sketch:alignment="middle" fill="#3A3942">
+                            <tspan x="10.292" y="22.1200027">Аналитическая геометрия</tspan>
+                        </text>
+                        <text id="Домашняя-работа" sketch:type="MSTextLayer" font-family="Helvetica Neue" font-size="11" font-weight="260" fill="#3A3942">
+                            <tspan x="10" y="38.2099991">Домашняя работа</tspan>
+                        </text>
+                        <text id="Завтра,-19:00" sketch:type="MSTextLayer" font-family="Helvetica Neue" font-size="9" font-weight="260" fill="#9B9B9B">
+                            <tspan x="254" y="58.2100067">Завтра, 19:00</tspan>
+                        </text>
+                        <g id="1500-+-rub---fontawesome" transform="translate(261.000000, 0.000000)" font-size="18.699187" font-family="Helvetica Neue" fill="#38BC9C" sketch:type="MSTextLayer" font-weight="260">
+                            <text id="150-₽">
+                                <tspan x="0" y="18">150</tspan>
+                                <tspan x="31.1902439" y="18" font-size="26.1788618"> </tspan>
+                                <tspan x="38.4679675" y="18" font-family=".Helvetica Neue DeskInterface">₽</tspan>
+                            </text>
+                        </g>
+                        <text id="10.02" sketch:type="MSTextLayer" font-family="Helvetica Neue" font-size="9" font-weight="260" fill="#A9A9AB">
+                            <tspan x="10" y="58.2100067">10.02</tspan>
+                        </text>
+                    </g>
+                    <text id="03.01" sketch:type="MSTextLayer" font-family="Helvetica Neue" font-size="9" font-weight="260" fill="#A9A9AB">
+                        <tspan x="10" y="125">03.01</tspan>
+                    </text>
+                    <text id="04.12" sketch:type="MSTextLayer" font-family="Helvetica Neue" font-size="9" font-weight="260" fill="#A9A9AB">
+                        <tspan x="10" y="191">04.12</tspan>
+                    </text>
+                    <text id="05.01" sketch:type="MSTextLayer" font-family="Helvetica Neue" font-size="9" font-weight="260" fill="#A9A9AB">
+                        <tspan x="10" y="257">05.01</tspan>
+                    </text>
+                </g>
+                <g id="Rectangle-288" transform="translate(9.000000, 58.000000)">
+                    <rect stroke-opacity="0.2" stroke="#AEAEAE" stroke-width="0.5" fill="#FFFFFF" sketch:type="MSShapeGroup" x="0" y="0" width="89" height="24" rx="3"></rect>
+                    <text id="По-цене" sketch:type="MSTextLayer" font-family="Helvetica Neue" font-size="13.0081301" font-weight="260" fill="#3A3942">
+                        <tspan x="8.5" y="15.75">По цене</tspan>
+                    </text>
+                    <g id="Imported-Layers" transform="translate(77.000000, 9.500000)" sketch:type="MSShapeGroup">
+                        <path d="M4.9375,0.604166667 L0.604166667,4.9375" id="Fill-1" fill-opacity="0" fill="#000000"></path>
+                        <path d="M4.9375,0.604166667 L0.604166667,4.9375" id="Stroke-3" stroke="#3A3942" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M4.9375,4.9375 L0.604166667,0.604166667" id="Fill-4" fill-opacity="0" fill="#000000"></path>
+                        <path d="M4.9375,4.9375 L0.604166667,0.604166667" id="Stroke-5" stroke="#3A3942" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                </g>
+                <g id="Rectangle-180" transform="translate(0.000000, 519.000000)">
+                    <rect fill="#FFFFFF" sketch:type="MSShapeGroup" x="0" y="0" width="320" height="49"></rect>
+                    <g id="Group" transform="translate(28.000000, 12.500000)">
+                        <g id="Imported-Layers" transform="translate(0.000000, 2.413043)" sketch:type="MSShapeGroup">
+                            <path d="M3.19565217,7.12173913 L3.19565217,18.7173913 L8.67391304,18.7173913 L8.67391304,14.1521739 L12.326087,14.1521739 L12.326087,18.7173913 L17.8043478,18.7173913 L17.8043478,7.12173913" id="Fill-1" fill-opacity="0" fill="#000000"></path>
+                            <path d="M3.19565217,7.12173913 L3.19565217,18.7173913 L8.67391304,18.7173913 L8.67391304,14.1521739 L12.326087,14.1521739 L12.326087,18.7173913 L17.8043478,18.7173913 L17.8043478,7.12173913" id="Stroke-3" stroke="#38BC9C" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M0.456521739,9.58695652 L10.5,0.456521739 L20.5434783,9.58695652" id="Fill-4" fill-opacity="0" fill="#000000"></path>
+                            <path d="M0.456521739,9.58695652 L10.5,0.456521739 L20.5434783,9.58695652" id="Stroke-5" stroke="#38BC9C" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M8.67391304,6.84782609 L12.326087,6.84782609 L12.326087,10.5 L8.67391304,10.5 L8.67391304,6.84782609 Z" id="Fill-6" fill-opacity="0" fill="#000000"></path>
+                            <path d="M8.67391304,6.84782609 L12.326087,6.84782609 L12.326087,10.5 L8.67391304,10.5 L8.67391304,6.84782609 Z" id="Stroke-7" stroke="#38BC9C" stroke-linecap="round" stroke-linejoin="round"></path>
+                        </g>
+                        <g id="Imported-Layers" transform="translate(61.000000, 2.500000)">
+                            <mask id="mask-2" sketch:name="Clip 2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="Clip-2"></g>
+                            <path d="M4.9875,13.8541667 L14.8041667,13.8541667" id="Fill-1" fill-opacity="0" fill="#000000" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                            <path d="M4.9875,13.8541667 L14.8041667,13.8541667" id="Stroke-3" stroke="#3A3942" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                            <path d="M15.4375,18.6041667 L15.4375,17.8125 C15.4375,14.3291667 14.0916667,11.2416667 12.1916667,9.89583333 C14.0916667,8.55 15.4375,5.4625 15.4375,1.97916667 L15.4375,1.1875" id="Fill-4" fill-opacity="0" fill="#000000" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                            <path d="M15.4375,18.6041667 L15.4375,17.8125 C15.4375,14.3291667 14.0916667,11.2416667 12.1916667,9.89583333 C14.0916667,8.55 15.4375,5.4625 15.4375,1.97916667 L15.4375,1.1875" id="Stroke-5" stroke="#3A3942" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                            <path d="M4.35416667,1.1875 L4.35416667,1.97916667 C4.35416667,5.4625 5.7,8.55 7.6,9.89583333 C5.7,11.2416667 4.35416667,14.3291667 4.35416667,17.8125 L4.35416667,18.6041667" id="Fill-6" fill-opacity="0" fill="#000000" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                            <path d="M4.35416667,1.1875 L4.35416667,1.97916667 C4.35416667,5.4625 5.7,8.55 7.6,9.89583333 C5.7,11.2416667 4.35416667,14.3291667 4.35416667,17.8125 L4.35416667,18.6041667" id="Stroke-7" stroke="#3A3942" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                            <path d="M2.77083333,1.1875 L17.0208333,1.1875" id="Fill-8" fill-opacity="0" fill="#000000" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                            <path d="M2.77083333,1.1875 L17.0208333,1.1875" id="Stroke-9" stroke="#3A3942" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                            <path d="M2.77083333,18.6041667 L17.0208333,18.6041667" id="Fill-10" fill-opacity="0" fill="#000000" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                            <path d="M2.77083333,18.6041667 L17.0208333,18.6041667" id="Stroke-11" stroke="#3A3942" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                        </g>
+                        <g id="Imported-Layers" transform="translate(120.000000, 0.000000)" sketch:type="MSShapeGroup">
+                            <path d="M12.5,7.5 L12.5,17.5" id="Fill-1" fill-opacity="0" fill="#000000"></path>
+                            <path d="M12.5,7.5 L12.5,17.5" id="Stroke-3" stroke="#3A3942" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M17.5,12.5 L7.5,12.5" id="Fill-4" fill-opacity="0" fill="#000000"></path>
+                            <path d="M17.5,12.5 L7.5,12.5" id="Stroke-5" stroke="#3A3942" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M20.27817,4.72183 C24.57394,9.01759 24.57394,15.982407 20.27817,20.278175 C15.98241,24.5739418 9.017593,24.5739418 4.721825,20.278175 C0.4260582,15.982407 0.4260582,9.01759 4.721825,4.72183 C9.017593,0.42606 15.98241,0.42606 20.27817,4.72183" id="Fill-6" fill-opacity="0" fill="#000000"></path>
+                            <path d="M20.27817,4.721825 C24.57394,9.017593 24.57394,15.98241 20.27817,20.27817 C15.98241,24.57394 9.017593,24.57394 4.721825,20.27817 C0.4260582,15.98241 0.4260582,9.017593 4.721825,4.721825 C9.017593,0.4260582 15.98241,0.4260582 20.27817,4.721825" id="Stroke-7" stroke="#3A3942" stroke-linecap="round" stroke-linejoin="round"></path>
+                        </g>
+                        <g id="Imported-Layers" transform="translate(184.000000, 1.500000)" sketch:type="MSShapeGroup">
+                            <path d="M18.2875,15.1374991 C19.6875,13.7375 20.5625,11.9875 20.5625,10.0625 C20.5625,5.6875 16.275,2.1875 10.9375,2.1875 C5.6,2.1875 1.3125,5.6875 1.3125,10.0625 C1.3125,14.4375 5.6,17.9375 10.9375,17.9375 C11.9,17.9375 12.775,17.85 13.65,17.5875 L18.8125,19.6875 L18.2875,15.1374991 L18.2875,15.1374991 Z" id="Fill-1" fill-opacity="0" fill="#000000"></path>
+                            <path d="M18.2875,15.1375 C19.6875,13.7375 20.5625,11.9875 20.5625,10.0625 C20.5625,5.6875 16.275,2.1875 10.9375,2.1875 C5.6,2.1875 1.3125,5.6875 1.3125,10.0625 C1.3125,14.4375 5.6,17.9375 10.9375,17.9375 C11.9,17.9375 12.775,17.85 13.65,17.5875 L18.8125,19.6875 L18.2875,15.1375 L18.2875,15.1375 Z" id="Stroke-3" stroke="#3A3942" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M7.4375,8.3125 L14.4375,8.3125" id="Fill-4" fill-opacity="0" fill="#000000"></path>
+                            <path d="M7.4375,8.3125 L14.4375,8.3125" id="Stroke-5" stroke="#3A3942" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M7.4375,11.8125 L11.8125,11.8125" id="Fill-6" fill-opacity="0" fill="#000000"></path>
+                            <path d="M7.4375,11.8125 L11.8125,11.8125" id="Stroke-7" stroke="#3A3942" stroke-linecap="round" stroke-linejoin="round"></path>
+                        </g>
+                        <g id="Imported-Layers" transform="translate(245.000000, 2.500000)" sketch:type="MSShapeGroup">
+                            <path d="M0.413043478,18.5869565 C0.413043478,14.0244783 4.11143478,10.326087 8.67391304,10.326087 L10.326087,10.326087 C14.8885652,10.326087 18.5869565,14.0244783 18.5869565,18.5869565" id="Fill-1" fill-opacity="0" fill="#000000"></path>
+                            <path d="M0.413043478,18.5869565 C0.413043478,14.0244783 4.11143478,10.326087 8.67391304,10.326087 L10.326087,10.326087 C14.8885652,10.326087 18.5869565,14.0244783 18.5869565,18.5869565" id="Stroke-3" stroke="#3A3942" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M13.0047896,1.86477565 C14.9404352,3.8004213 14.9404352,6.93870913 13.0047896,8.87435478 C11.0691439,10.8099971 7.93085609,10.8099971 5.99520961,8.87435478 C4.05956809,6.93870913 4.05956809,3.8004213 5.99520961,1.86477565 C7.93085609,-0.07087 11.0691439,-0.07087 13.0047896,1.86477565" id="Fill-4" fill-opacity="0" fill="#000000"></path>
+                            <path d="M13.0047896,1.86477483 C14.9404352,3.80041717 14.9404352,6.93871326 13.0047896,8.87435478 C11.0691439,10.8100004 7.93085609,10.8100004 5.99520961,8.87435478 C4.05956809,6.93871326 4.05956809,3.80041717 5.99520961,1.86477483 C7.93085609,-0.0708670261 11.0691439,-0.0708670261 13.0047896,1.86477483" id="Stroke-5" stroke="#3A3942" stroke-linecap="round" stroke-linejoin="round"></path>
+                        </g>
+                    </g>
+                </g>
+                <g id="Imported-Layers" transform="translate(287.000000, 33.000000)" sketch:type="MSShapeGroup">
+                    <path d="M8.75,2.5 L14.375,2.5" id="Fill-1" fill-opacity="0" fill="#000000"></path>
+                    <path d="M8.75,2 L14.375,2" id="Stroke-3" stroke="#444444" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M0.625,2.5 L2.5,2.5" id="Fill-4" fill-opacity="0" fill="#000000"></path>
+                    <path d="M0.625,2 L2.5,2" id="Stroke-5" stroke="#444444" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M5.700825,1.174175 C6.43305625,1.90640625 6.43305625,3.09359375 5.700825,3.825825 C4.96859187,4.55805625 3.78140812,4.55805625 3.049175,3.825825 C2.31694187,3.09359375 2.31694187,1.90640625 3.049175,1.174175 C3.78140812,0.44194375 4.96859187,0.44194375 5.700825,1.174175" id="Fill-14" fill-opacity="0" fill="#000000"></path>
+                    <path d="M5.700825,1.174175 C6.43305625,1.90640813 6.43305625,3.09359188 5.700825,3.825825 C4.96859187,4.55805813 3.78140812,4.55805813 3.049175,3.825825 C2.31694187,3.09359188 2.31694187,1.90640813 3.049175,1.174175 C3.78140812,0.44194175 4.96859187,0.44194175 5.700825,1.174175" id="Stroke-15" stroke="#444444" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <g id="Group" transform="translate(0.000000, 7.894737)">
+                        <path d="M13.75,1.97368421 L14.375,1.97368421" id="Fill-6" fill-opacity="0" fill="#000000"></path>
+                        <path d="M13.75,1.97368421 L14.375,1.97368421" id="Stroke-7" stroke="#3A3942" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M0.625,1.97368421 L7.5,1.97368421" id="Fill-8" fill-opacity="0" fill="#000000"></path>
+                        <path d="M0.625,1.97368421 L7.5,1.97368421" id="Stroke-9" stroke="#3A3942" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M10.700825,0.647859211 C11.4330563,1.38009046 11.4330563,2.56727796 10.700825,3.29950921 C9.96859375,4.03174234 8.78140625,4.03174234 8.049175,3.29950921 C7.31694375,2.56727796 7.31694375,1.38009046 8.049175,0.647859211 C8.78140625,-0.0843720395 9.96859375,-0.0843720395 10.700825,0.647859211" id="Fill-16" fill-opacity="0" fill="#000000"></path>
+                        <path d="M10.700825,0.647859211 C11.4330563,1.38009046 11.4330563,2.56727796 10.700825,3.29950921 C9.96859375,4.03174046 8.78140625,4.03174046 8.049175,3.29950921 C7.31694375,2.56727796 7.31694375,1.38009046 8.049175,0.647859211 C8.78140625,-0.0843739145 9.96859375,-0.0843739145 10.700825,0.647859211" id="Stroke-17" stroke="#3A3942" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
